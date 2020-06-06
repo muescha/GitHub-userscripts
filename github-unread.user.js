@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         GitHub: hide unread
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Hide unread issues in github issues list
+// @version      0.1.1
+// @description  Hide unread issues and unread pull requests
 // @author       Muescha
 // @namespace    https://github.com/muescha
 // @match        https://github.com/*/*/issues
@@ -10,8 +9,8 @@
 // @match        https://github.com/*/*/pulls
 // @match        https://github.com/*/*/pulls?*
 // @grant        none
-// @updateURL   https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js
-// @downloadURL https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js
+// @updateURL    https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js
+// @downloadURL  https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js
 // ==/UserScript==
 
 (function() {
