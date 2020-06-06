@@ -13,4 +13,13 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 
 ### Installation
 
-[install](https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js)
+- [install](https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js)
+
+
+### Screenshots
+
+- normal
+
+- `is:unread`
+
+- `is:unread-debug`
