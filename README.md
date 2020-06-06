@@ -18,14 +18,14 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 
 ### Screenshots
 
-- normal
+#### normal
 
-![ScreenShot normal](./ScreenShot-normal.png)
+<img src="./ScreenShot-normal.png" width=60% />
 
-- `is:unread`
+#### `is:unread`
 
-![ScreenShot is:unread](./ScreenShot-is-unread.png)
+<img src="./ScreenShot-is-unread.png" width=60% />
 
-- `is:unread-debug`
+#### `is:unread-debug`
 
-![ScreenShot is:unread-debug](./ScreenShot-is-unread-debug.png)
+<img src="./ScreenShot-is-unread-debug.png" width=60% />
