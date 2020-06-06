@@ -18,10 +18,6 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 
 ### Screenshots
 
-#### normal
-
-<img src="./ScreenShot-normal.png" width=60% />
-
 #### `is:unread`
 
 <img src="./ScreenShot-is-unread.png" width=60% />
@@ -29,3 +25,8 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 #### `is:unread-debug`
 
 <img src="./ScreenShot-is-unread-debug.png" width=60% />
+
+#### normal
+
+<img src="./ScreenShot-normal.png" width=60% />
+
