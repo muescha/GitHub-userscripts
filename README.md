@@ -20,6 +20,12 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 
 - normal
 
+![ScreenShot normal](./ScreenShot-normal.png)
+
 - `is:unread`
 
+![ScreenShot is:unread](./ScreenShot-is-unread.png)
+
 - `is:unread-debug`
+
+![ScreenShot is:unread-debug](./ScreenShot-is-unread-debug.png)
