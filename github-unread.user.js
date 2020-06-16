@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitHub: hide unread
-// @version      0.1.1
+// @version      0.1.2
 // @description  Hide unread issues and unread pull requests
 // @author       Muescha
 // @namespace    https://github.com/muescha
@@ -27,7 +27,7 @@
     function init(){
 
         var searchParams = new URLSearchParams(document.location.search);
-        var q = searchParams.get("q");
+        var q = searchParams.get("q") || '';
 
         var isHideUnread = includes(q, "is:unread");
         var isGreyUnread = includes(q, "is:unread-grey","is:unread-debug", "is:unreadr");
