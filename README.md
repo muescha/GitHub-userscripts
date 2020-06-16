@@ -2,8 +2,8 @@
 
 Userscripts to add functionality to GitHub
 
-- Hide Unread Issues
-- Add me to Authors
+- [Hide Unread Issues](#hide-unread-issues)
+- [Add me to Authors](#add-me-as-author-filter)
 
 ## Hide Unread Issues
 
