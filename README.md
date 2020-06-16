@@ -2,6 +2,9 @@
 
 Userscripts to add functionality to GitHub
 
+- Hide Unread Issues
+- Add me to Authors
+
 ## Hide Unread Issues
 
 Hides unread issues and pull requests. Type it as additional parameter into to the search box.
@@ -29,4 +32,28 @@ Hides unread issues and pull requests. Type it as additional parameter into to t
 #### normal
 
 <img src="github-unread-screanshot-normal.png" width=60% />
+
+## Add Me As Author Filter
+
+Add a small link "me" near Author dropdown.
+
+### Usage:
+
+- click on **me** to add me as author filter
+- click on **~~me~~** to remove me as author filter
+
+### Installation
+
+- [install](https://raw.githubusercontent.com/muescha/GitHub-userscripts/master/github-unread.user.js)
+
+
+### Screenshots
+
+#### add filter me as author 
+
+<img src="github-author-me-sreenshot-add.png" width=60% />
+
+#### remove filter me as author
+
+<img src="github-author-me-sreenshot-remove.png" width=60% />
 
