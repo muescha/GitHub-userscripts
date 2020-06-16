@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitHub: add me Author
-// @version      0.1.1
+// @version      0.1.2
 // @description  Add me near to the Author drop down
 // @author       Muescha
 // @namespace    https://github.com/muescha
@@ -40,7 +40,7 @@
     let user_login = document.querySelector('meta[name="user-login"]').content
     let author_filter = "author:" + user_login
 
-    let q = document.querySelector("#js-issues-search").value;
+    let q = document.querySelector("#js-issues-search").value.trim();
 
     let isAuthorFilterActive = includes(q, author_filter);
 
